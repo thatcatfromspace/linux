@@ -4,13 +4,13 @@ Linux is a free, open source operating system founded by Linus Torvalds.
 
 ## Contents
 
-[[#Linux directories]]
-[[#The /dev directory]]
-[[#Essential Linux commands]]
-[[#General purpose utilities]]
-[[#Communication commands]]
-[[#Shell Variables]], [[#Environment Variables]] & [[#Shell Operations]]
-[[#Compression utility]]
+[Linux directories](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#linux-directories)
+[The /dev directory](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#the-dev-directory)
+[Essential Linux commands](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#essential-linux-commands)
+[General purpose utilities](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#general-purpose-utlities)
+[Communication commands](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#communication-commands)
+[Shell Variables](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#shell-variables), [Environment Variables](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#environment-variables) & [Shell Operations](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#shell-operations)
+[Compression utility](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#compression-utility)
 
 ## Topics to cover
 
