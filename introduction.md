@@ -4,12 +4,12 @@ Linux is a free, open source operating system founded by Linus Torvalds.
 
 ## Contents
 
-[Linux directories](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#linux-directories)
-[The /dev directory](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#the-dev-directory)
-[Essential Linux commands](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#essential-linux-commands)
-[General purpose utilities](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#general-purpose-utlities)
-[Communication commands](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#communication-commands)
-[Shell Variables](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#shell-variables), [Environment Variables](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#environment-variables) & [Shell Operations](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#shell-operations)
+[Linux directories](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#linux-directories) <br>
+[The /dev directory](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#the-dev-directory) <br>
+[Essential Linux commands](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#essential-linux-commands) <br>
+[General purpose utilities](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#general-purpose-utlities) <br>
+[Communication commands](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#communication-commands) <br>
+[Shell Variables](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#shell-variables), [Environment Variables](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#environment-variables) & [Shell Operations](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#shell-operations) <br>
 [Compression utility](https://github.com/thatcatfromspace/linux/blob/main/introduction.md#compression-utility)
 
 ## Topics to cover
